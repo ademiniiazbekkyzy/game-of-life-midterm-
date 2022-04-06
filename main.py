@@ -13,7 +13,7 @@ class GameSimulation:
        width - width of game field in pixels
        height - width of game field in pixels
        """
-        self.c = c
+        # self.c = c
         self.row = row + 2
         self.column = column + 2
         self.width = width

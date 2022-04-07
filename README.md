@@ -18,7 +18,9 @@ At each step in time, the following transitions occur:
 
 
 
-##Sources
+
+## Sources
+
 1.https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 2.https://vk.com/onigiriscienceВ 

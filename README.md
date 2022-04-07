@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Game of life
 ## Simulation rules
 The game is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further 
@@ -19,3 +20,9 @@ At each step in time, the following transitions occur:
 1.https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 2.https://vk.com/onigiriscienceВ 
 
+=======
+# game-of-life
+
+
+<img width="613" alt="Снимок экрана 2022-04-06 в 16 54 36" src="https://user-images.githubusercontent.com/102521781/161963481-3b0ba165-3f94-4223-bd19-24195b27c4de.png">
+>>>>>>> origin/main
